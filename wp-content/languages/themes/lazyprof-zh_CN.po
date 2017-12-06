@@ -1,0 +1,44 @@
+# Translation of Themes - LazyProf in Chinese (China)
+# This file is distributed under the same license as the Themes - LazyProf package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-26 14:21:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - LazyProf\n"
+
+#. Description of the plugin/theme
+msgid "A blue-colored Business theme, perfect for creating a corporate/business website. It boasts two beautifully designed page templates: Home Page and Blog Page, as well as support for custom widgets and a widgetized Footer Area."
+msgstr "一种蓝色的商业主题，是在建立一个企业/商业网站的理想主题。它拥有2个设计精美的页面模板：首页和博客页面。该主题有自定义小工具以及在页脚区域里用小工具的技能。"
+
+#. Theme Name of the plugin/theme
+msgid "LazyProf"
+msgstr "LazyProf"
+
+#. Template Name of the plugin/theme
+msgid "Blog-left-sidebar"
+msgstr "博格-左边栏"
+
+#: template-blog-left.php:38
+msgid "Next"
+msgstr "下一个"
+
+#: template-blog-left.php:37
+msgid "Previous"
+msgstr "上一页"
+
+#. Author of the plugin/theme
+msgid "priyanshu.mittal"
+msgstr "priyanshu.mittal"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/lazyprof-child-version-details-page/"
+msgstr "https://webriti.com/lazyprof-child-version-details-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"

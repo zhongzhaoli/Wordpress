@@ -1,0 +1,883 @@
+# Translation of Themes - Busiprof in Chinese (China)
+# This file is distributed under the same license as the Themes - Busiprof package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-18 10:28:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Busiprof\n"
+
+#. Description of the plugin/theme
+msgid "Busiprof WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms,ecommerce, finance, agency, travel, photography, recipes, design, arts, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own favicon, logo, feature slide, services, 2 testimonial slider, blog, callout and much more. In the premium version you can add unlimited slides. There are a number of in-built widgets and support for various popular plugins like WPML, the Polylang Translation WordPress Plugin, Woocommerce and Contact Form 7. 10 beautifully designed templates like About Us, Services, Portfolio 2/3/4 column, Portfolio with Category, Portfolio Archive, Blog Left/Right Sidebar, Blog Fullwidth, Full Width Page, Contact Us and many useful sections for business using the Homepage template. Busiprof theme comes with various Locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "Busiprof WordPress主题是一个完全有响应和翻译能力的主题，允许您创建令人惊叹的博客和网站。该主题非常适合公司，律师事务所，电子商务，金融，代理，旅游，摄影，食谱，设计，艺术，个人和任何其他创意站点和博客。该主题是使用Bootstrap 3开发的，使其移动和平板电脑友好。该主题在WordPress定制程序中有各种选项来更改主题的外观。主题定制工具可用于添加您自己的图标，徽标，功能幻灯片，服务，2个推荐幻灯片，博客，标注等等。在Pro版本中，您可以添加无限幻灯片。有许多内置的小部件和支持各种流行的插件，如WPML，Polylang Translation WordPress Plugin，Woocommerce和Contact Form 7。10个精心设计的模板，如关于我们，服务，项目2/3/4列，项目类别，项目归档，博客左/右边栏，博客全宽，全宽页面，联系我们和用于使用主页模板上的许多对业务有用的部分。 Busiprof主题随附各种语言环境。只需导航到外观/自定义即可开始自定义。"
+
+#. Theme Name of the plugin/theme
+msgid "Busiprof"
+msgstr "Busiprof"
+
+#: functions/customizer/custo_general_settings.php:80
+msgid "Enable logo text"
+msgstr "启用标志文本"
+
+#: functions/customizer/custo_sections_settings.php:37 theme_setup_data.php:38
+msgid "Busiprof: the perfect WordPress theme for an app and web developer"
+msgstr "Busiprof：应用程序和网页开发者的完美 WordPress 主题"
+
+#: theme_setup_data.php:140
+msgid "Our Testimonials"
+msgstr "我们的推荐信"
+
+#: functions/customizer/custo_sections_settings.php:803
+msgid "Number of shown clients"
+msgstr "显示客户数量："
+
+#: functions/customizer/custo_sections_settings.php:315
+msgid "Want to add more Services? Then upgrade to Pro!"
+msgstr "想添加更多服务吗？那就升级到Pro版。"
+
+#: functions/customizer/custo_sections_settings.php:171
+msgid "To add more slider and animation effects click to upgrade to pro"
+msgstr "若要添加更多的幻灯片和动画效果，请升级成 Pro 版。"
+
+#: functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "页面"
+
+#: functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr "作者："
+
+#: functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr "标签："
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "搜索结果："
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "分类归档："
+
+#. Template Name of the plugin/theme
+msgid "Home Two"
+msgstr "第二首页模板"
+
+#: index-testimonials.php:97
+msgid "We are a group of passionate designers and developers who really love creating awesome WordPress themes & giving support. Widest laborum dolo rumes fugats untras. Ethar omnis iste natus error sit voluptatem accusantiexplicabo. Nemo enim ipsam eque porro quisquam est, qui dolorem ipsum am quaerat voluptatem..."
+msgstr "我们是一群充满激情的设计师和开发人员，非常喜欢创造令人敬畏的WordPress 主题以及提供支持。范例文字，请取代此段落文字。此段落文字为范例文字内容，请务必取代。范例文字，请取代此段落文字。此段落文字为范例文字内容，请务必取代。范例文字，请取代此段落文字。此段落文字为范例文字内容，请务必取代。"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:511
+#: functions/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:506
+#: functions/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Remove Icon"
+msgstr "移除图标"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:481
+msgid "None"
+msgstr "无"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:476
+msgid "Image type"
+msgstr "图像类型"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:469
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:449
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:448
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意：某些图标可能没有显示在此处。 您可以在 %1$s 上看到完整的图标列表。"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:432
+msgid "Open link in new tab:"
+msgstr "在新标签页打开链接："
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:358
+msgid "Text"
+msgstr "文本"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:398
+msgid "Delete field"
+msgstr "删除字段"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:285
+#: functions/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "Shortcode"
+msgstr "短代码"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:277
+#: functions/customizer-repeater/class/customizer-repeater-control.php:374
+#: functions/customizer-repeater/class/customizer-repeater-control.php:503
+#: functions/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Link"
+msgstr "链接"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:249
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+msgid "Subtitle"
+msgstr "字幕"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:234
+#: functions/customizer-repeater/class/customizer-repeater-control.php:336
+msgid "Color"
+msgstr "颜色"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "中继定制器"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "添加字段"
+
+#: functions/customizer/customizer.php:110
+#: functions/customizer/customizer.php:155 index-services.php:172
+msgid "24/7 Support"
+msgstr "24/7 支持"
+
+#: functions/customizer/customizer.php:101
+#: functions/customizer/customizer.php:146 index-services.php:172
+msgid "User Friendly"
+msgstr "用户友好"
+
+#: functions/customizer/customizer.php:93
+#: functions/customizer/customizer.php:138 index-services.php:172
+msgid "Unique Elements"
+msgstr "独特元素"
+
+#: functions/customizer/custo_sections_settings.php:717
+msgid "Add new Testimonial"
+msgstr "新建推荐信"
+
+#: functions/customizer/custo_sections_settings.php:715
+msgid "Testimonial content"
+msgstr "推荐信内容"
+
+#: functions/customizer/custo_sections_settings.php:681
+msgid "Enable Home Testimonial section"
+msgstr "启用在主页推荐信部分"
+
+#: functions/customizer/custo_sections_settings.php:641
+msgid "Enable Home Blog meta"
+msgstr "启用在主页博客元数据"
+
+#: functions/customizer/custo_sections_settings.php:634
+#: functions/customizer/custo_sections_settings.php:646
+#: functions/customizer/custo_sections_settings.php:686
+msgid "OFF"
+msgstr "禁用"
+
+#: functions/customizer/custo_sections_settings.php:157
+msgid "Open link in new tab"
+msgstr "在新标签页打开链接"
+
+#: functions/customizer/custo_sections_settings.php:269
+msgid "Service content"
+msgstr "服务内容"
+
+#: functions/customizer/custo_sections_settings.php:633
+#: functions/customizer/custo_sections_settings.php:645
+#: functions/customizer/custo_sections_settings.php:685
+msgid "ON"
+msgstr "激活"
+
+#: functions/customizer/custo_sections_settings.php:272
+msgid "Add new Service"
+msgstr "新增服务"
+
+#: functions/customizer/custo_sections_settings.php:629
+msgid "Enable Home Blog section"
+msgstr "启用在主页博客部分"
+
+#: functions/customizer/custo_post_slugs_settings.php:6
+msgid "SEO Friendly URL"
+msgstr "SEO 友好 URL"
+
+#: functions/customizer/customizer.php:86
+#: functions/customizer/customizer.php:94
+#: functions/customizer/customizer.php:102
+#: functions/customizer/customizer.php:111
+#: functions/customizer/customizer.php:131
+#: functions/customizer/customizer.php:139
+#: functions/customizer/customizer.php:147
+#: functions/customizer/customizer.php:156 index-services.php:186
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr "这是一个长期以来的事实，读者会在看到布局时被页面的可读内容分散注意力。"
+
+#: functions/customizer/custo_sections_settings.php:135
+msgid "#"
+msgstr "井"
+
+#: functions/customizer/custo_sections_settings.php:119
+msgid "Read more"
+msgstr "阅读更多"
+
+#: functions/customizer/custo_emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "参与课程"
+
+#: functions/customizer/custo_emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "在这个电子邮件课程，我提供了4个高度可操作的技巧如何建立一个值得信赖的网站，为您引来更多的业务。"
+
+#: functions/customizer/custo_emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "请考虑您的网站是一个很勤奋的推销员工作24 / 7，从不要求加薪！"
+
+#: functions/customizer/custo_emailcourse.php:21
+msgid "To bring you more business."
+msgstr "为您引来更多的生意。"
+
+#: functions/customizer/custo_emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "网站存在的唯一理由："
+
+#: functions/customizer/custo_emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "创建可信赖的网站"
+
+#: functions/widgets/custom-widgets.php:27
+#: functions/widgets/custom-widgets.php:29
+msgid "WooCommerce sidebar area"
+msgstr "WooCommerce 边栏区或"
+
+#: functions/widgets/custom-widgets.php:7
+#: functions/widgets/custom-widgets.php:9
+msgid "Sidebar widget area"
+msgstr "边栏挂件区域"
+
+#: functions/customizer/custo_template_settings.php:337
+msgid "Select column layout"
+msgstr "选择栏式布局"
+
+#: functions/customizer/custo_template_settings.php:302
+msgid "Project Archive page setting"
+msgstr "项目归档页面设置"
+
+#: functions/customizer/custo_template_settings.php:271
+msgid "Website"
+msgstr "网站"
+
+#: functions/customizer/custo_template_settings.php:250
+msgid "Fax"
+msgstr "传真"
+
+#: functions/customizer/custo_template_settings.php:240
+msgid "Phone"
+msgstr "手机"
+
+#: functions/customizer/custo_template_settings.php:230
+msgid "Address two"
+msgstr "地址行二"
+
+#: functions/customizer/custo_template_settings.php:220
+msgid "Address one"
+msgstr "地址行一"
+
+#: functions/customizer/custo_template_settings.php:185
+msgid "Contact page setting"
+msgstr "联系页面设置"
+
+#: functions/customizer/custo_template_settings.php:131
+msgid "Project page settings"
+msgstr "项目页面设置"
+
+#: functions/customizer/custo_template_settings.php:71
+msgid "Service page settings"
+msgstr "服务页面设置"
+
+#: functions/customizer/custo_template_settings.php:14
+msgid "About Us page settings"
+msgstr "关于我们页面设置"
+
+#: functions/customizer/custo_sections_settings.php:815
+msgid "Animation speed"
+msgstr "动画速度"
+
+#: functions/customizer/custo_sections_settings.php:779 theme_setup_data.php:60
+msgid "Meet our clients"
+msgstr "我们的客户介绍"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:264
+#: functions/customizer-repeater/class/customizer-repeater-control.php:366
+msgid "Designation"
+msgstr "职位名称"
+
+#: functions/customizer/custo_sections_settings.php:350
+msgid "Enable Home Project section"
+msgstr "启用在主页项目部分"
+
+#: functions/customizer/custo_sections_settings.php:141
+#: functions/customizer/custo_sections_settings.php:299
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: functions/customizer/custo_sections_settings.php:125
+#: functions/customizer/custo_sections_settings.php:289
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:443
+#: functions/customizer-repeater/class/customizer-repeater-control.php:479
+msgid "Icon"
+msgstr "图标"
+
+#: functions/customizer/custo_sections_settings.php:108
+#: functions/customizer/custo_sections_settings.php:251
+#: functions/customizer/custo_sections_settings.php:383
+#: functions/customizer/custo_sections_settings.php:433
+#: functions/customizer/custo_sections_settings.php:483
+#: functions/customizer/custo_sections_settings.php:532
+#: functions/customizer/custo_sections_settings.php:580
+#: functions/customizer/custo_sections_settings.php:664
+#: functions/customizer/custo_sections_settings.php:704
+#: functions/customizer/custo_sections_settings.php:793
+#: functions/customizer/custo_template_settings.php:177
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+msgid "Description"
+msgstr "描述"
+
+#: functions/customizer/custo_sections_settings.php:93
+#: functions/customizer/custo_sections_settings.php:232
+#: functions/customizer/custo_sections_settings.php:368
+#: functions/customizer/custo_sections_settings.php:655
+#: functions/customizer/custo_sections_settings.php:695
+#: functions/customizer/custo_sections_settings.php:782
+#: functions/customizer/custo_template_settings.php:166
+#: functions/customizer-repeater/class/customizer-repeater-control.php:242
+#: functions/customizer-repeater/class/customizer-repeater-control.php:344
+msgid "Title"
+msgstr "标题"
+
+#: functions/customizer/custo_sections_settings.php:87 theme_setup_data.php:40
+#: theme_setup_data.php:45
+msgid "Responsive WP theme"
+msgstr "响应式 WordPress 主题"
+
+#: functions/customizer/custo_sections_settings.php:75
+#: functions/customizer/custo_sections_settings.php:414
+#: functions/customizer/custo_sections_settings.php:463
+#: functions/customizer/custo_sections_settings.php:513
+#: functions/customizer/custo_sections_settings.php:562
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+#: functions/customizer-repeater/class/customizer-repeater-control.php:480
+msgid "Image"
+msgstr "图像"
+
+#: functions/customizer/custo_sections_settings.php:40
+msgid "Infobar text"
+msgstr "信息栏原文"
+
+#: functions/customizer/custo_post_slugs_settings.php:73
+msgid "After changing the slug, please don't forget to save the permalinks. Without saving them, the old permalinks will not be updated."
+msgstr "改变别名后，请保存固定链接。如果没保存，固定链接不会被更新。"
+
+#: functions/customizer/custo_post_slugs_settings.php:49
+msgid "Project’s category slug "
+msgstr "项目分类目录"
+
+#: functions/customizer/custo_layout_manager_settings.php:10
+msgid "Theme Layout Manager"
+msgstr "主题布局管理器"
+
+#: functions/customizer/custo_general_settings.php:105
+msgid "Footer copyright settings"
+msgstr "页脚版权设置"
+
+#: functions/customizer/custo_general_settings.php:68
+msgid "Enter Logo Height"
+msgstr "指定图标高度"
+
+#: functions/customizer/custo_general_settings.php:59
+msgid "Enter Logo Width"
+msgstr "指定图标宽度"
+
+#: comments.php:58 index-blog.php:41
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: comments.php:56
+msgid "Send Message"
+msgstr "发送信息"
+
+#: comments.php:54
+msgid "Logout"
+msgstr "登出"
+
+#: comments.php:45 functions/customizer/custo_template_settings.php:260
+msgid "Email"
+msgstr "电子邮件"
+
+#: comments.php:44
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:38
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: archive.php:29
+msgid "Blog Archive "
+msgstr "博客归档"
+
+#: archive.php:17
+msgid "Daily Archive "
+msgstr "按日归档"
+
+#: 404.php:17
+msgid "Go Back"
+msgstr "返回"
+
+#: 404.php:15
+msgid "Oops! Page not found"
+msgstr "出错了！未找到页面"
+
+#: 404.php:14 functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "404错误"
+
+#. Template Name of the plugin/theme
+msgid "Page Fullwidth"
+msgstr "页全宽度"
+
+#: functions/customizer/custo_sections_settings.php:223 theme_setup_data.php:90
+msgid "Awesome Services"
+msgstr "善巧服务"
+
+#: tag.php:14
+msgid "Tag  Archive"
+msgstr "标签归档"
+
+#: functions/widgets/custom-widgets.php:17
+#: functions/widgets/custom-widgets.php:19
+msgid "Footer widget area"
+msgstr "页脚挂件区"
+
+#: functions/customizer/custo_template_settings.php:311
+msgid "Want to add a taxonomy archive portfolio template? Then"
+msgstr "想添加一个“分类归档”的文件夹模板吗？那么"
+
+#: functions/customizer/custo_template_settings.php:294
+msgid "Google Maps URL"
+msgstr "Google 地图链接"
+
+#: functions/customizer/custo_template_settings.php:281
+msgid "Enable Google Maps"
+msgstr "启用 Google 地图"
+
+#: functions/customizer/custo_template_settings.php:194
+msgid "Want to add contact template, Google Maps or Contact form? Then"
+msgstr "想添加联系模板，Google 地图，或联系表格？那么"
+
+#: functions/customizer/custo_template_settings.php:140
+msgid "Want to add project templates, like: Project 2 column, 3 column, 4 column, or portfolio categorisation? Then"
+msgstr "想添加项目模板，例如：2，3，或4-列项目页面设计，或文件夹分类页面设计？那么"
+
+#: functions/customizer/custo_template_settings.php:107
+msgid "Enable Testimonial section"
+msgstr "启用推荐信部分"
+
+#: functions/customizer/custo_template_settings.php:80
+msgid "Want to add service template, testimonial section or client section? Then"
+msgstr "想添加服务模板，推荐信部分或顾客部分？那么"
+
+#: functions/customizer/custo_template_settings.php:60
+#: functions/customizer/custo_template_settings.php:120
+msgid "Enable Client section"
+msgstr "启用顾客部分"
+
+#: functions/customizer/custo_template_settings.php:47
+msgid "Enable Team section"
+msgstr "启用团队部分"
+
+#: functions/customizer/custo_template_settings.php:22
+msgid "Want to add about us template, team section, or client section? Then"
+msgstr "想添加“关于我们”模板，团队部分，或顾客部分？那么"
+
+#: functions/customizer/custo_template_settings.php:8
+msgid "Template settings"
+msgstr "模板设置"
+
+#: functions/customizer/custo_sections_settings.php:831
+msgid "Click here to add client"
+msgstr "点击这里添加客户"
+
+#: functions/customizer/custo_sections_settings.php:768
+msgid "Enable Home Client section"
+msgstr "启用在主页客户部分"
+
+#: functions/customizer/custo_sections_settings.php:741
+msgid "Want to add a Client section with slider animations? Then"
+msgstr "想在客户部分添加幻灯动画效果吗？那就"
+
+#: functions/customizer/custo_sections_settings.php:731
+msgid "Client Slider setting"
+msgstr "客户幻灯设置"
+
+#: functions/customizer/custo_sections_settings.php:620
+msgid "Recent Blog setting"
+msgstr "近期博客设置"
+
+#: theme_setup_data.php:146 theme_setup_data.php:151
+msgid "(Sales & Marketing)"
+msgstr "（市场销售）"
+
+#: functions/customizer/custo_sections_settings.php:692
+msgid "<b>Our</b> Testimonials"
+msgstr "<b>所获得</b>的推荐信"
+
+#: functions/customizer/custo_sections_settings.php:673
+msgid "Testimonial settings"
+msgstr "推荐信设置"
+
+#: functions/customizer/custo_sections_settings.php:595
+msgid "Want to add more projects and categorisations? Then upgrade to Pro."
+msgstr "想添加更多项目以及分类吗？那就升级到Pro版。"
+
+#: functions/customizer/custo_sections_settings.php:341
+msgid "Project settings"
+msgstr "项目设置"
+
+#: functions/customizer/custo_sections_settings.php:197
+msgid "Service settings"
+msgstr "服务设置"
+
+#: functions/customizer/custo_sections_settings.php:55
+msgid "Enable slider"
+msgstr "启用幻灯"
+
+#: functions/customizer/custo_sections_settings.php:47
+msgid "Slider settings"
+msgstr "幻灯设置"
+
+#: functions/customizer/custo_sections_settings.php:26
+msgid "Enable Infobar"
+msgstr "启用信息栏"
+
+#: functions/customizer/custo_sections_settings.php:18
+msgid "Infobar settings"
+msgstr "信息栏设置"
+
+#: functions/customizer/custo_sections_settings.php:13
+msgid "Homepage section settings"
+msgstr "首页区域设置"
+
+#: functions/customizer/custo_post_slugs_settings.php:60
+msgid "Team slug"
+msgstr "团队别名"
+
+#: functions/customizer/custo_post_slugs_settings.php:39
+msgid "Projects slug"
+msgstr "项目别名"
+
+#: functions/customizer/custo_post_slugs_settings.php:13
+msgid "Want to add a custom post type slug? Then"
+msgstr "想添加一个自定义文章类型别名？那么"
+
+#: functions/customizer/custo_layout_manager_settings.php:137
+msgid "Section 5"
+msgstr "第5部分"
+
+#: functions/customizer/custo_layout_manager_settings.php:116
+msgid "Section 4"
+msgstr "第4部分"
+
+#: functions/customizer/custo_layout_manager_settings.php:95
+msgid "Section 3"
+msgstr "第3部分"
+
+#: functions/customizer/custo_layout_manager_settings.php:73
+msgid "Section 2"
+msgstr "第2部分"
+
+#: functions/customizer/custo_layout_manager_settings.php:49
+msgid "Section 1"
+msgstr "第1部分"
+
+#: functions/customizer/custo_layout_manager_settings.php:20
+msgid "Want to change the Homepage layout section? Then"
+msgstr "想添改变首页布局部分吗？那么"
+
+#: functions/customizer/custo_general_settings.php:189
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/custo_general_settings.php:179
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/custo_general_settings.php:169
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/custo_general_settings.php:156
+msgid "Enable footer's social icons"
+msgstr "启用页脚的社交图标"
+
+#: functions/customizer/custo_general_settings.php:130
+msgid "Want to add social icons? Then"
+msgstr "想添加社交图标吗？那么"
+
+#: functions/customizer/custo_general_settings.php:122
+#: functions/customizer-repeater/class/customizer-repeater-control.php:489
+msgid "Social icons"
+msgstr "社交图标"
+
+#: functions/customizer/custo_general_settings.php:50
+msgid "Upload logo"
+msgstr "上传标志"
+
+#: functions/customizer/custo_general_settings.php:31
+msgid "Enable front page"
+msgstr "启用首页"
+
+#: functions/customizer/custo_general_settings.php:13
+msgid "Front page"
+msgstr "首页"
+
+#: functions/customizer/custo_general_settings.php:8
+msgid "General settings"
+msgstr "基本设置"
+
+#: functions/customizer/cust_pro.php:77
+msgid "The Pro Version gives you more opportunities to enhance your site and business. In order to create effective online presence one have to showcase their wide range of products, have to use contact us enquiry form, have to make effective about us page, have to introduce team members, etc etc . The pro version will give it all. Buy the pro version and give us a chance to serve you better."
+msgstr "Pro版里有更多强化您的站点以及业务的选择。为了创造有效的在线存在，您必须展示其广泛的产品，使用联系表单，创建有效的“关于我们”页面，并介绍团队成员等。Pro版能提供这些功能。立即购买Pro版，让我们有个机会为您服务。"
+
+#: functions/customizer/cust_pro.php:73
+msgid "DOCUMENTATION"
+msgstr "文档"
+
+#: functions/customizer/cust_pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "添加您的评论"
+
+#: functions/commentbox/comment-function.php:41
+msgid "%s"
+msgstr "%s"
+
+#: archive.php:70 author.php:52 category.php:51 index.php:27 search.php:36
+#: tag.php:51
+msgid "Next"
+msgstr "下一个"
+
+#: archive.php:69 author.php:51 category.php:50 index.php:26 search.php:35
+#: tag.php:50
+msgid "Previous"
+msgstr "上一页"
+
+#: 404.php:16
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "非常抱歉，您正在找的页面不存在。"
+
+#: functions/customizer/custo_sections_settings.php:661
+#: functions/customizer/custo_sections_settings.php:701
+#: theme_setup_data.php:141 theme_setup_data.php:152 theme_setup_data.php:155
+msgid "We are a group of passionate designers & developers"
+msgstr "我们是一群充满激情的设计师和开发人员"
+
+#: functions/customizer/custo_sections_settings.php:427
+#: functions/customizer/custo_sections_settings.php:477
+#: functions/customizer/custo_sections_settings.php:526
+#: functions/customizer/custo_sections_settings.php:574
+#: theme_setup_data.php:119 theme_setup_data.php:124 theme_setup_data.php:129
+#: theme_setup_data.php:134
+msgid "Graphic design & web design"
+msgstr "平面造型设计和网页设计"
+
+#: functions/customizer/custo_sections_settings.php:393
+#: functions/customizer/custo_sections_settings.php:442
+#: functions/customizer/custo_sections_settings.php:492
+#: functions/customizer/custo_sections_settings.php:541
+#: theme_setup_data.php:117 theme_setup_data.php:122 theme_setup_data.php:127
+#: theme_setup_data.php:132
+msgid "Business cards"
+msgstr "名片"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions/customizer/cust_pro.php:13 functions/customizer/cust_pro.php:20
+#: functions/customizer/custo_general_settings.php:132
+#: functions/customizer/custo_layout_manager_settings.php:20
+#: functions/customizer/custo_post_slugs_settings.php:13
+#: functions/customizer/custo_sections_settings.php:174
+#: functions/customizer/custo_sections_settings.php:318
+#: functions/customizer/custo_sections_settings.php:598
+#: functions/customizer/custo_sections_settings.php:742
+#: functions/customizer/custo_template_settings.php:23
+#: functions/customizer/custo_template_settings.php:81
+#: functions/customizer/custo_template_settings.php:140
+#: functions/customizer/custo_template_settings.php:195
+#: functions/customizer/custo_template_settings.php:312
+msgid "Upgrade to Pro"
+msgstr "升级成 Pro 版"
+
+#: functions/customizer/custo_sections_settings.php:208
+msgid "Enable Services on homepage"
+msgstr "在首页启用服务"
+
+#: functions/customizer/custo_general_settings.php:87
+#: functions/customizer/custo_general_settings.php:97
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: functions/customizer/custo_general_settings.php:42
+msgid "Custom logo"
+msgstr "自定标志"
+
+#: functions/customizer/customizer.php:85
+#: functions/customizer/customizer.php:130 index-services.php:172
+msgid "Web Design"
+msgstr "网页设计"
+
+#: functions/customizer/custo_sections_settings.php:286 theme_setup_data.php:85
+#: theme_setup_data.php:114
+msgid "More Services"
+msgstr "更多服务"
+
+#: functions/customizer/custo_sections_settings.php:273
+msgid "Service"
+msgstr "服务"
+
+#: functions/customizer/custo_sections_settings.php:102
+#: functions/customizer/custo_sections_settings.php:243
+#: functions/customizer/custo_sections_settings.php:377
+#: functions/customizer/custo_sections_settings.php:790
+#: functions/customizer/custo_template_settings.php:174 theme_setup_data.php:41
+#: theme_setup_data.php:46 theme_setup_data.php:61 theme_setup_data.php:78
+#: theme_setup_data.php:91 theme_setup_data.php:144 theme_setup_data.php:149
+msgid "We are a group of passionate designers and developers who really love creating awesome WordPress themes & giving support."
+msgstr "我们是一群充满激情的设计师和开发人员，非常喜欢创造令人敬畏的WordPress 主题以及提供支持。"
+
+#: functions/customizer/custo_sections_settings.php:652
+#: theme_setup_data.php:154
+msgid "Recent Blog"
+msgstr "近期博客"
+
+#: functions/customizer/custo_sections_settings.php:718
+msgid "Testimonial"
+msgstr "推荐信"
+
+#: functions/customizer/custo_sections_settings.php:547
+msgid "Project Four"
+msgstr "第四项目"
+
+#: functions/customizer/custo_sections_settings.php:498
+msgid "Project Three"
+msgstr "第三项目"
+
+#: functions/customizer/custo_sections_settings.php:448
+msgid "Project Two"
+msgstr "第二项目"
+
+#: functions/customizer/custo_sections_settings.php:399
+msgid "Project One"
+msgstr "第一项目"
+
+#: functions/customizer/custo_sections_settings.php:362
+#: functions/customizer/custo_template_settings.php:163 theme_setup_data.php:77
+msgid "Recent Projects"
+msgstr "近期项目"
+
+#: functions/customizer/custo_general_settings.php:114
+msgid "Copyright text"
+msgstr "版权说明"
+
+#. #-#-#-#-#  busiprof.pot (Busiprof 1.9.3)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "首页"
+
+#: functions/commentbox/comment-function.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: functions/commentbox/comment-function.php:30
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "以以下身份登陆"
+
+#: comments.php:20 comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:19 comments.php:29
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:18 comments.php:28
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:15
+msgid "Comment"
+msgstr "评论"
+
+#: comments.php:11
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: category.php:14
+msgid "Category Archive "
+msgstr "分类归档"
+
+#: content.php:37 index-blog.php:53 theme_setup_data.php:42
+#: theme_setup_data.php:47
+msgid "Read More"
+msgstr "阅读更多"
+
+#: content.php:27
+msgid "Leave a comment"
+msgstr "留下评论"
+
+#: archive.php:25
+msgid "Yearly Archive "
+msgstr "年度归档"
+
+#: archive.php:21
+msgid "Monthly Archive "
+msgstr "月度归档"
+
+#: searchform.php:14 searchform.php:15
+msgid "Search"
+msgstr "搜索"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+msgstr "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
